@@ -1,0 +1,80 @@
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar: class java.lang.Object now provided by /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/rt.jar[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/erip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar: class scala.App now provided by /home2/rippeth/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/erip/.ivy2/cache/org.scalaz/scalaz-core_2.12/bundles/scalaz-core_2.12-7.2.14.jar: class scalaz.Enum now provided by /home2/rippeth/.ivy2/cache/org.scalaz/scalaz-core_2.12/bundles/scalaz-core_2.12-7.2.14.jar[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/Users/erip/Code/project2/target/scala-2.12/classes/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.class, /Users/erip/Code/project2/target/scala-2.12/classes/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver$delayedInit$body.class, /Users/erip/Code/project2/target/scala-2.12/classes/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver$.class, /Users/erip/Code/project2/target/scala-2.12/classes/edu/washington/rippeth/ling473/proj2/DirectoryProcessor$DirectoryReader.class, /Users/erip/Code/project2/target/scala-2.12/classes/edu/washington/rippeth/ling473/proj2/FileProcessor.class, /Users/erip/Code/project2/target/scala-2.12/classes/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.class)[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set(/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar, /Users/erip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar, /Users/erip/.ivy2/cache/org.scalaz/scalaz-core_2.12/bundles/scalaz-core_2.12-7.2.14.jar)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala, /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home2/rippeth/tmp/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 5083cba9, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.141-1.b16.el7_3.x86_64/jre/classes:/home2/rippeth/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home2/rippeth/tmp/target/scala-2.12/classes:/home2/rippeth/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar:/home2/rippeth/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar:/home2/rippeth/.ivy2/cache/org.scalaz/scalaz-core_2.12/bundles/scalaz-core_2.12-7.2.14.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 6.869395795 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	printWordCountPerFile, notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, outputDescendingCounts, ==, clone, counts, toString, !=, getClass, ne, DirectoryProcessor, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	printWordCountPerFile, notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, outputDescendingCounts, ==, clone, counts, toString, !=, getClass, ne, DirectoryProcessor, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala: Set(<init>, outputDescendingCounts, DirectoryProcessor)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, $init$, toString, args, !=, getClass, ProjectTwoDriver, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/erip/Code/project2/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, countWordsInFile, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, FileProcessor, toString, !=, getClass, lines, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/FileProcessor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, countWordsInFile, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, FileProcessor, toString, !=, getClass, lines, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/DirectoryProcessor.scala: Set(countWordsInFile, <init>, FileProcessor, ne)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home2/rippeth/tmp/src/main/scala/edu/washington/rippeth/ling473/proj2/ProjectTwoDriver.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, $init$, toString, args, !=, getClass, ProjectTwoDriver, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

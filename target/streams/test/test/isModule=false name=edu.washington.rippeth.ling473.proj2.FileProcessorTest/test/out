@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mFileProcessorTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find no words[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not count SGML tags[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count metadata[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not count numbers[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count words between tags[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should trim apostrophes[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not trim internal apostrophes[0m[0m
+[0m[[0minfo[0m] [0m[32mA FileProcessor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should split up punctuation-separated words[0m[0m

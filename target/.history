@@ -1,0 +1,11 @@
+project project-two
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/v8/ls8m50ks3zz0hzq21681r8m40000gn/T/sbt-structure.xml
+run "tester"
+run tester
+"run tester"
+run "tester"
+all {file:/Users/erip/Code/project2/}project-two/products {file:/Users/erip/Code/project2/}project-two/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/v8/ls8m50ks3zz0hzq21681r8m40000gn/T/sbt-structure.xml
+all {file:/Users/erip/Code/project2/}project-two/products {file:/Users/erip/Code/project2/}project-two/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/v8/ls8m50ks3zz0hzq21681r8m40000gn/T/sbt-structure.xml
+all {file:/Users/erip/Code/project2/}project-two/products {file:/Users/erip/Code/project2/}project-two/test:products

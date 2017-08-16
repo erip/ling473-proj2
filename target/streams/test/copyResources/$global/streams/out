@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/erip/Code/project2/src/test/resources/basic,/Users/erip/Code/project2/target/scala-2.12/test-classes/basic)[0m
+[0m[[0mdebug[0m] [0m	(/Users/erip/Code/project2/src/test/resources/basic/File1,/Users/erip/Code/project2/target/scala-2.12/test-classes/basic/File1)[0m
+[0m[[0mdebug[0m] [0m	(/Users/erip/Code/project2/src/test/resources/basic/File2,/Users/erip/Code/project2/target/scala-2.12/test-classes/basic/File2)[0m

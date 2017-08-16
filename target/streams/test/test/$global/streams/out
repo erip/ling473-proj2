@@ -1,0 +1,10 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.washington.rippeth.ling473.proj2.FileProcessorTest, org.scalatest.tools.Framework$$anon$1@38189143, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.washington.rippeth.ling473.proj2.DirectoryProcessorTest, org.scalatest.tools.Framework$$anon$1@38189143, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 970 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 9[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 9, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	edu.washington.rippeth.ling473.proj2.FileProcessorTest[0m
+[0m[[0mdebug[0m] [0m	edu.washington.rippeth.ling473.proj2.DirectoryProcessorTest[0m

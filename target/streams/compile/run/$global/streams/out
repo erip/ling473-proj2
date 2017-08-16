@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mRunning edu.washington.rippeth.ling473.proj2.ProjectTwoDriver /corpora/LDC/LDC02T31/nyt/2000[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home2/rippeth/tmp/target/scala-2.12/classes[0m
+[0m[[0mdebug[0m] [0m	/home2/rippeth/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home2/rippeth/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home2/rippeth/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home2/rippeth/.ivy2/cache/org.scalaz/scalaz-core_2.12/bundles/scalaz-core_2.12-7.2.14.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
